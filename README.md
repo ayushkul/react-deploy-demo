@@ -11,7 +11,7 @@ https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA
 2. Add Github pages dependency
 3. Add homepage url in package.json
 
-    "homepage": "http://yuribenjamin.github.io/my-app"
+    "homepage": "http://{username}.github.io/{repo-name}"
 
 4. Add deployment scripts in package.json
 
