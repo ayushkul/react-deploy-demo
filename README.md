@@ -15,12 +15,12 @@ https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA
 
 4. Add deployment scripts in package.json
 
-    `"predeploy": "npm run build",`
+    `"predeploy": "npm run build",`<br/>
     `"deploy": "gh-pages -d build"`
 
 5. Add your project to a remote git repository
 
-    `git init`
+    `git init`<br/>
     `git remote add origin git@github.com:{username}/{repo-name}.git`
 
 6. Now deploy it to GitHub Pages. just run the following command :
